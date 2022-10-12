@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and java development
 - 💞️ I'm an Applied Computer Science Student at HTW Berlin
 - 🌱 I’m currently learning ...
-- 📫 How to reach me skanderayari96@gmail.com, linkedin.com/in/skander-ayari96
+- 📫 How to reach me skanderayari96@gmail.com 
 
 <!---
 Skaaan/Skaaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
