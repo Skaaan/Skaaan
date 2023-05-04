@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Skaaan
 - 👀 I’m interested in web development
 - 💞️ I'm an Applied Computer Science Student at HTW Berlin
-- 🌱 I’m currently learning ...
 - 📫 How to reach me skanderayari96@gmail.com 
 
 <!---
