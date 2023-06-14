@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skaaan
-- 👀 I’m interested in web development
+- 👀 I love to code
 - 💞️ I'm an Applied Computer Science Student at HTW Berlin
 - 📫 How to reach me skanderayari96@gmail.com 
 
